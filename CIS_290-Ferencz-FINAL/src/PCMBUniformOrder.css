@@ -1,0 +1,44 @@
+.list-view{
+    -fx-font-size:20.0;
+}
+
+.label{
+    -fx-font-size:20.0;
+}
+
+.label-Heading{
+	-fx-font-size:50.0px;
+	-fx-font-family:"serif";
+}
+
+.label-SubHeading{
+	-fx-font-size:30.0px;
+	-fx-font-family:"serif";
+}
+
+.label-Money{
+	-fx-font-size:30.0px;
+	-fx-font-family:"serif";
+}
+
+.button-UniformOrderButtons {
+    -fx-pref-width: 100px;
+}
+
+.gridpane-misc{
+	-fx-pref-halignment: CENTER;
+}
+
+.hbox {
+	-fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-padding: 15, 5, 15, 5;
+    -fx-border-color: blue;
+}
+
+.vbox {
+	-fx-border-style: solid inside;
+    -fx-border-width: 2;
+    -fx-padding: 15, 5, 15, 5;
+    -fx-border-color: blue;
+}

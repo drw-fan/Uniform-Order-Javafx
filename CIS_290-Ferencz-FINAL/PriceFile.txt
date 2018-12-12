@@ -1,0 +1,12 @@
+drillmasters 35
+shako 50
+bibs 65
+jacket 55
+trackpants 30
+membershirt 5
+memberjacket 65
+blackgloves 5
+greyplume 15
+whitegloves 5
+blackplume 15
+baton 6

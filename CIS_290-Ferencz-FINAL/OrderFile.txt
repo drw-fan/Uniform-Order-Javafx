@@ -1,0 +1,25 @@
+the text
+MEMBER
+Name:  Ben Ferencz
+Black Gloves:  true
+Drillmasters Size:  6
+Jacket Size:  MEDIUM
+Trackpants Size:  large
+Member Shirt Size:  medium
+ Subtotal   $130.00
+ Tax   $7.80
+ Total   $137.80
+the text
+DRUM MAJOR
+Name:  Hannah Ferencz
+Black Plume:  true
+White Gloves:  true
+Drillmasters Size:  6
+Bibs Size:  MEDIUM
+Jacket Size:  MEDIUM
+Trackpants Size:  large
+Member Shirt Size:  large
+Member Jacket Size:  large
+ Subtotal   $275.00
+ Tax   $16.50
+ Total   $291.50
